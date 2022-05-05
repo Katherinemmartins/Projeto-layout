@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+.ue {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.block {
+  height: 500px;
+  width: 300px;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  line-height: 1.45;
+  font-size: 18px;
+  font-family: monospace;
+  padding: 3%;
+  box-sizing: border-box;
+  border: 5px solid #252525; 
+}
+.oi{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  text-align:center;
+  
+  
+
+}
+.saldo{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  padding: 10px;
+  
+  }
+  .imagem{
+    padding: 30px;
+    text-align: center;
+  }
+  .valor{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+  }
+
+
